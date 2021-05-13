@@ -34,5 +34,9 @@
   "Role": {
     "dataSource": "mongodb",
     "public": false
+  },
+  "Event": {
+    "dataSource": "mongodb",
+    "public": true
   }
 }
