@@ -9,6 +9,12 @@
   "properties": {
     "driver": {
       "type": "string"
+    },
+    "created": {
+      "type": "date"
+    },
+    "date": {
+      "type": "date"
     }
   },
   "validations": [],
